@@ -8,8 +8,8 @@ Looking at existing curatorial models on the internet I was dissatisfied with th
 
 1.  Enrolled in Node centre for curatorial studies:
 "Curating on the Web:Exhibiting Internet-based" course.
-4 weeks. Starts today. 4 weeks.
+4 weeks. Starts today.
 
-2.  Watching documentaries such as RIP! A remix manifesto and The Internet's Own Boy: The Story of Aaron Swartz got me thinking about sharing, and democratisation of ideas. Artist's are traditionally protective of other people copying their work, but is this what's killing creativity on a collective scale?  
+2.  Watching documentaries such as RIP! A remix manifesto and The Internet's Own Boy: The Story of Aaron Swartz got me thinking about sharing, and democratization of ideas. Is the next step for artists to start sharing their ideas more liberally rather than guarding them for fear of being copied? Are their ideas that original to begin with. I believe that the internet could be used as a leveling field and shift us in to the next phase of creative consciousness. 
 
 3.  In this first exhibition(Project02), I've chosen to focus on sounds artists who I think are misrepresented in galleries and online? Why? They're too long and not financially viable/popular enough for commercial galleries and most major institutions to host. Also, who actually sits through 33 mins of audio? Thinking about the internet, this allows a participant to do other things in the background and engage as they see fit.
