@@ -1,5 +1,5 @@
 # FinalProject2015
-
+Change
 ## A manifesto for an online curatorial platform
 
 Looking at existing web based curatorial models I was dissatisfied with the tendency towards templates and replicating white walls structures on screen. It feels many curators are only coming to grips with the nuances of what they are actually working with - new media art. Having not curated physical shows I hold no affinity to people being present in a room to have an engagement and experience with art.  
