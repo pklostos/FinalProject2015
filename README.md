@@ -13,9 +13,9 @@ Looking at existing curatorial models on the internet I was dissatisfied with th
 2.  Watching documentaries such as RIP! A remix manifesto and The Internet's Own Boy: The Story of Aaron Swartz got me thinking about sharing, and democratization of ideas. Is the next step for artists to start sharing their ideas more liberally rather than guarding them for fear of being copied? Are their ideas that original to begin with. I believe that the internet could be the leveling field and shift us in to the next phase of creative consciousness.
 
 4.  I've been particularly inspired by a few sites as models and just in general:
-  * https://www.seditionart.com/ -- This site represents major established artists who agree to distribute specifically created works for the internet sold in large editions. This does 2 things. First, everyone can collect art - it removes the elitist inaccessibility that occurs when they become established. They want to reverse this e.g Tracy Emin. Also, the work is created specifically for the internet, not a retrofit/afterthought. These are major artists that understand the above shift and art excited by it!
+  * https://www.seditionart.com/ -- This commercial site represents major established artists who agree to distribute specifically created works for the internet sold in large editions. This does 2 things. First, everyone can collect art - it removes the elitist inaccessibility that occurs when they become established. They want to reverse this e.g Tracy Emin. Also, the work is created specifically for the internet, not a retrofit/afterthought. These are major artists that understand the above shift and art excited by it!
   * http://www.postdigitalcultures.ch/
-  * http://www.theunstitute.org/exit11.html
+  * http://theunstitute.org/Projection.Room.html
 
 
 
