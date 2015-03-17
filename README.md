@@ -15,6 +15,7 @@ Looking at existing curatorial models on the internet I was dissatisfied with th
 4.  I've been particularly inspired by a few sites as models and just in general:
   * https://www.seditionart.com/ -- This site represents major established artists who agree to distribute specifically created works for the internet sold in large editions. This does 2 things. First, everyone can collect art - it removes the elitist inaccessibility that occurs when they become established. They want to reverse this e.g Tracy Emin. Also, the work is created specifically for the internet, not a retrofit/afterthought. These are major artists that understand the above shift and art excited by it!
   * http://www.postdigitalcultures.ch/
+  * http://www.theunstitute.org/exit11.html
 
 
 
