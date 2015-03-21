@@ -31,6 +31,11 @@ http://www.postdigitalcultures.ch/
 
 #Week 04 - 3/17 - Final project - second proposal presented. Removed references to creating a 3D space. First lecture for online curating.
 Key thoughts:
+
+- Design:
+Plays the whole way through.
+Accepts that users want to be doing more than one thing.
+Mobile considered for scale to have a similar experience. 
 - Function: for the sound exhibition, I want the tiles to play the soMore inspiration links und and for the text on the right panel not to be revealed until each of the artists is played right through.
 - Function: to be able to make a video play only while it is actually in view, it pauses once they leave the browser or click another tab/elsewhere.
 
@@ -93,7 +98,7 @@ Links for this week:
 
 Key points to come out of curating lecture:
 
-# Week 12 - 5/12 - Final class. Final presentation. Documentation. 
+# Week 12 - 5/12 - Final class. Final presentation. Documentation.
 
 Key thoughts:
 
