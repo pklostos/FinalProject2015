@@ -62,6 +62,8 @@ http://www.sfmoma.org/media/exhibitions/010101/top.html
 http://whitney.org/Exhibitions/Artport/DouglasDavis
 http://temporarystedelijk.com
 http://www.newrafael.com
+http://gendertalents.info/
+
 
 Technical progress: Started jquery while continuing through Javascript. Also built the airbnb site for HTML/CSS implementation. Started on "build an ineractive site" as well. This implements jquery in a real life scenario.
 
