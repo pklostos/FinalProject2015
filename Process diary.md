@@ -75,6 +75,9 @@ Key points to come out of curating lecture:
 Key thoughts:
 
 Links for this week:
+http://furtherfield.org/projects/netartizens-project
+
+Technical progress: jquery complete. Javascript to be continued and complete "Build an interactive website".
 
 Key points to come out of curating lecture:
 
