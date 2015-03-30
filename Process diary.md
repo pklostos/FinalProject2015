@@ -64,18 +64,23 @@ http://temporarystedelijk.com
 http://www.newrafael.com
 http://gendertalents.info/
 
-
 Technical progress: Started jquery while continuing through Javascript. Also built the airbnb site for HTML/CSS implementation. Started on "build an ineractive site" as well. This implements jquery in a real life scenario.
 
 Key points to come out of curating lecture:
 
 
 
-# Week 05 - 3/24 - Spring break. Second lecture in online curating.
+# Week 05 - 3/24 - Spring break. Second lecture in online curating. kontaktspace.com registerd. Soundings exhibition re-worked. Main landing page mocked up.
 Key thoughts:
 
 Links for this week:
 http://furtherfield.org/projects/netartizens-project
+http://www.dazeddigital.com/artsandculture/gallery/19570/13/claudia-mates-cgi-world
+https://www.facebook.com/h0000ff
+http://netartnet.net
+http://www.artnews.com/2015/03/27/lets-break-the-internet-the-artist-project-at-the-met
+http://furtherfield.org/features/cyberformance-third-space-conversation-helen-varley-jamieson
+
 
 Technical progress: jquery complete. Javascript to be continued and complete "Build an interactive website".
 
