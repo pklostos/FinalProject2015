@@ -15,6 +15,23 @@
   display: inline;
 }
 
+.dropdown-menu {
+  font-size: 16px;
+  margin-top: 5px;
+  min-width: 105px;
+  background-color: red;
+}
+
+.dropdown-menu li a {
+  color: blue;
+  font-size: 18px;
+  font-family: 'Arial';
+  font-weight: bold;
+  padding: 6px;
+}
+
+
+
 .jumbotron {
   background-color:blue;
   height: 200px;
