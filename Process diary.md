@@ -67,11 +67,19 @@ http://gendertalents.info/
 Technical progress: Started jquery while continuing through Javascript. Also built the airbnb site for HTML/CSS implementation. Started on "build an ineractive site" as well. This implements jquery in a real life scenario.
 
 Key points to come out of curating lecture:
-
-
+Characteristic of the web and curating:
+- Code can challenge you a lot
+- Ephemerality
+- A challenge for institutions – dynamic structure. Do we want to control it?
+- Media theory – Language of media – Lev Manovich
+- There’s a whole web to link to it. Makes it difficult to separate.
+- Peter Lundfeldt – it’s always in becoming. Unfinished condition.
+- Are they a user or a visitor?
+- You can have an archive reflecting on an art piece
 
 # Week 05 - 3/24 - Spring break. Second lecture in online curating. kontaktspace.com registerd. Soundings exhibition re-worked. Main landing page mocked up.
 Key thoughts:
+Need to start thinking about other exhibitions and how they work together. Do they have a similar look and feel or stand alone?
 
 Links for this week:
 http://furtherfield.org/projects/netartizens-project
@@ -85,53 +93,69 @@ http://furtherfield.org/features/cyberformance-third-space-conversation-helen-va
 Technical progress: jquery complete. Javascript to be continued and complete "Build an interactive website".
 
 Key points to come out of curating lecture:
+- Traditional curator was the expert. Could put a value on an object.  … “Multiple new models of curation have evolved in stark contrast to the traditional model that centers itself around the expert opinion of the curator. Independent curators are utilizing alternative configurations of gallery space or abandoning it entirely, a rejection of the museum as a monopolistic cultural producer.” Reconfiguring the Museum Electronic Media and Emergent Curatorial Models by Patrick Lichty
+- The curatorial turn – he curator has another role as mediator. Sometimes an artistic role.  A cultural producer or artist.
+- You can commission art pieces to frame your concepts.
+- Think about the staggered release of material
+- The question of context came up. Would it belong offline or online? Can the works live offline or is the context of them living on the internet what the work relies on.
 
-# Week 06 - 3/31 - Third lecture in online curating.
-Key thoughts:
+# Week 06 - 3/31 - Third lecture in online curating. More about exhibition design, not a great deal covered beyond intersting links.
 
-Links for this week:
-
-Key points to come out of curating lecture:
-
-# Week 07 - 4/7 - Final lecture in online curating.
-Key thoughts:
-
-Links for this week:
-
-Key points to come out of curating lecture:
-
-# Week 08 - 4/14 -
-Key thoughts:
+Key thoughts: Need to work out the contact form for subscription to newsletters. Think about newsletter HTML design.
 
 Links for this week:
+http://www.yhchang.com/
+http://www.artspace.com/magazine/art_101/90s-net-art
 
-Key points to come out of curating lecture:
+
+# Week 07 - 4/7 - Final lecture in online curating. Commenced Hype training to start learning how to utilise the full animation capabilites.
+
+Key thoughts: The Rafael Rozendaal talk was completely bang on in terms of the democratization of ideas on the internet as well as creating works that refernce the medium where they live.
+
+Links for this week:
+https://vimeo.com/124126663
+https://vimeo.com/95833310
+http://typology.ca/
+http://www.vvork.com/
+http://glitchmuseum.com/
+http://zkm.de/
+http://aoys.zkm.de/
+
+
+# Week 08 - 4/14 - Individual meeting. Discussed issues surrounding the sound pre-loading. Chih Hao suggested mail chimp. I'm to work on the manifesto. Incorporate safe "K" to leave the exhibitions.
+
+Key thoughts: Potential ideas for exhibitions: Body/Performance/Identity. Brandon - virtual space and physical space. This seems to be the recurring theme with this project and the focus of the manifesto.
+
+Links for this week (mainly processing):
+p5.js
+benfry.com
+reas.com
+shiffman.net - Nature of Code and Learning Processing
+creativeapplications.net
+code-poems.com
+purest-form.com
+vvvv.org
+
 
 # Week 09 - 4/21 -
 Key thoughts:
 
 Links for this week:
 
-Key points to come out of curating lecture:
 
 # Week 10 - 4/28 -
 Key thoughts:
 
 Links for this week:
 
-Key points to come out of curating lecture:
 
 # Week 11 - 5/5 -
 Key thoughts:
 
 Links for this week:
 
-Key points to come out of curating lecture:
-
 # Week 12 - 5/12 - Final class. Final presentation. Documentation.
 
 Key thoughts:
 
 Links for this week:
-
-Key points to come out of curating lecture:
