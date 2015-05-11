@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+
+</body>
+</html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class>
+  <audio id="mahler" src="http://chihaoyo.net/html5audio/mahler.m4a" controls></audio>
+  <div class="box" data-audio-id="mahler"></div>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+</body>
+</html>
+
+
+<!--CSS-->
+
+
+body {
+	display: none;
+}
+body.audioLoaded {
+	display: block;
+}
+
+div.box {
+	width: 100px;
+	height: 100px;
+	background-color: lime;
+}
+
+
+
+<!--JS-->
+
+
+var counter = 0;
+var numOfAudio = 1;
+
+var audio = document.getElementsByTagName('audio')[0];
+audio.addEventListener('canplaythrough', function() {
+	console.log('canplaythrough');
+	counter++;
+	if(counter >= numOfAudio)
+		$('body').addClass('audioLoaded');
+});
+
+$(function() {
+	$('.box').mouseover(function() {
+		var audio = $('audio#' + $(this).data('audio-id'))[0];
+		if(audio.paused)
+			audio.play();
+	}).click(function() {
+		var audio = $('audio#' + $(this).data('audio-id'))[0];
+		if(!audio.paused)
+			audio.pause();
+	});
+});

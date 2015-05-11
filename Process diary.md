@@ -1,6 +1,6 @@
 ##Process Diary
 
-#Week 01 - 2/24 - The idea came as result of 3 communities and 3 examples. I wanted to build a model that did not prescribe to gallery or curatorial conventions. These were:
+#Week 01 - 2/24 - The idea came as result of 3 communities and 3 examples. I wanted to build a model that did not prescribe to gallery or curatorial conventions. 
 
 * Links for this week:
 
