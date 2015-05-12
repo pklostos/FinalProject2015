@@ -137,22 +137,11 @@ purest-form.com
 vvvv.org
 
 
-# Week 09 - 4/21 -
-Key thoughts:
+# Week 09 - 4/21 - Hype training
 
-Links for this week:
+# Week 10 - 4/28 - Hype training and development of Whitewash exhibition
 
-
-# Week 10 - 4/28 -
-Key thoughts:
-
-Links for this week:
-
-
-# Week 11 - 5/5 -
-Key thoughts:
-
-Links for this week:
+# Week 11 - 5/5 - Refinement of Whitewash and tieing it all together
 
 # Week 12 - 5/12 - Final class. Final presentation. Documentation.
 
