@@ -1,15 +1,15 @@
 ##Process Diary
 
-#Week 01 - 2/24 - The idea came as result of 3 communities and 3 examples. I wanted to build a model that did not prescribe to gallery or curatorial conventions. 
+#Week 01 - 2/24 - The idea came as result of 3 communities and 3 examples. I wanted to build a model that did not prescribe to gallery or curatorial conventions.
 
-* Links for this week:
+## Links for this week:
 
-* Projects
+### Projects
 http://www.imageatlas.org
 http://www.turbulence.org/Works/arcangel/index.html
 http://www.sporkworld.org/oulipoems/
 
-* Communities
+### Communities
 http://whatismissing.net/#/home
 http://rhizome.org/community/?ref=header
 http://www.doclab.org
